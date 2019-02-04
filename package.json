@@ -8,7 +8,7 @@
     "build:es6": "webpack --mode production"
   },
   "repository": "https://github.com/PanupongDeve/Make-Web-EZ.git",
-  "author": "PanupongC",
+  "author": "PanupongChum",
   "license": "MIT",
   "devDependencies": {
     "node-sass": "^4.11.0",
